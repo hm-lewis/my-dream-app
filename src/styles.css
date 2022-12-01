@@ -8,17 +8,4 @@ section {
 section h1 {
     color: blue;
 }
-/* app-serverin säännöt */
-.app-server {
-    background-color: blue;
-}
-.app-server * {
-    color: bisque;
-}
-/* app-servers säännöt */
-.app-servers {
-    background-color: black;
-}
-.app-servers * {
-    color: bisque;
-}
+
